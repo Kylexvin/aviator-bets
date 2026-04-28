@@ -38,7 +38,7 @@ function App() {
             </div>
             <span className="verified-badge">Confirmed</span>
           </div>
-          <p className="date">Created on April 19, 2026 at 10:30 AM</p>
+          <p className="date">Verified on April 19, 2026 at 10:30 AM</p>
         </div>
 
         <div className="divider"></div>
